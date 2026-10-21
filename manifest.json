@@ -1,0 +1,27 @@
+{
+  "name": "Ajedrez Liviano Ciro",
+  "short_name": "Ajedrez Ciro",
+  "description": "Juego de ajedrez con IA Stockfish, 11 niveles de ELO (600-2500) y piezas SVG de alta calidad.",
+  "start_url": "./ajedrez_liviano_ciro.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#2c2520",
+  "theme_color": "#b58863",
+  "lang": "es",
+  "categories": ["games", "entertainment"],
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
